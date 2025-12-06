@@ -29,6 +29,13 @@ Tenho mais de 8 anos de experiência como usuário Linux, com interesse em autom
 
 > 📌 Ver meus repositórios para mais detalhes — README de cada projeto explica propósito, como usar e minha contribuição.
 
+## ⚙️ Tecnologias & Ferramentas
+
+ ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)   ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-000?logo=linux&logoColor=white)   ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)  ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)  ![NixOS](https://img.shields.io/badge/NixOS-5273FF?logo=nixos&logoColor=white)  ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?logo=ubuntu&logoColor=white)  ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white)  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white)  ![Proxmox](https://img.shields.io/badge/Proxmox-E34F26?logo=proxmox&logoColor=white)  ![Ceph](https://img.shields.io/badge/Ceph-003263?logo=ceph&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Podman](https://img.shields.io/badge/Podman-892A2A?logo=podman&logoColor=white)  ![Nginx](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)  ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-0AC1D9?logo=grafana&logoColor=white)  ![ZeroTier](https://img.shields.io/badge/ZeroTier-FF8800?logo=zerotier&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Shell Script](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)  ![Pi-Hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white)  ![WinSCP](https://img.shields.io/badge/WinSCP-008000?logo=winscp&logoColor=white)  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)  ![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)  ![Ventoy](https://img.shields.io/badge/Ventoy-2F7DCF?logoColor=white)  ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=white)  ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)  ![UltraVNC](https://img.shields.io/badge/UltraVNC-39499E?logoColor=white)  ![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-0A7BDC?logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Nano](https://img.shields.io/badge/Nano-4A90E2?logo=gnu&logoColor=white)  ![QEMU](https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white)  ![KVM](https://img.shields.io/badge/KVM-000000?logo=linux&logoColor=white)
+
+
+
+
 ## 🎯 Objetivo
 
 Atuar com administração de sistemas e infraestrutura, com foco em automação, segurança e monitoramento.  
@@ -37,7 +44,8 @@ Colaborar com projetos open source e construir soluções robustas e escaláveis
 ## 📫 Contato & Mais sobre mim
 
 - Localidade: Recife / PE, Brasil  
-- Buscando oportunidades de estágio ou projetos como junior/analista de suporte ou infra.  
+- Buscando oportunidades de projetos como pleno/analista de infra ou suporte.  
+
 
 
 <!--
