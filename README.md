@@ -77,6 +77,7 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ---
 
 ### 🛠️ **Ferramentas & Acesso Remoto**
+![SSH](https://img.shields.io/badge/SSH-3E9C35?logo=openssh&logoColor=white)
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?logo=winscp&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=white)
