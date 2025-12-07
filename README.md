@@ -1,7 +1,7 @@
 # 👋 Olá — eu sou o Junior (terminal-junior)
 
 Sou Analista de Infraestrutura e Suporte de TI e estudante de Ciência da Computação.  
-Tenho mais de 12 anos de experiência com Linux, infraestrutura, redes e automação, sempre buscando construir ambientes estáveis, seguros e bem documentados.  
+Tenho experiência com Linux, infraestrutura, redes e automação, sempre buscando construir ambientes estáveis, seguros e bem documentados.  
 Curto transformar caos em organização — automatizando, monitorando e otimizando sistemas.
 
 ---
