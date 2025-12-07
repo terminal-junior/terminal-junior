@@ -56,7 +56,6 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ---
 
 ### 🌐 **Redes & Wireless**
-![Aruba](https://img.shields.io/badge/Aruba_Networks-FF6A00?logo=arubanetworks&logoColor=white)
 ![HPE Aruba](https://img.shields.io/badge/HPE_Aruba-00A4EF?logo=hewlettpackardenterprise&logoColor=white)
 ![Ruckus](https://img.shields.io/badge/Ruckus-000000?logo=wireshark&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-Unifi-0559C9?logo=ubiquiti&logoColor=white)
@@ -123,6 +122,9 @@ Busco evoluir continuamente, contribuir com projetos open source e construir sol
 
 
 <!--
+
+![Aruba](https://img.shields.io/badge/Aruba_Networks-FF6A00?logo=arubanetworks&logoColor=white)
+
 ## Hi there 👋
 -->
 <!--
