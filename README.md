@@ -73,6 +73,7 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ![Pi-Hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba_4-354A5F?logo=samba&logoColor=white)
 ![RSAT](https://img.shields.io/badge/RSAT-000000?logo=windows&logoColor=white)
+![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-0A7BDC?logoColor=white)
 
 ---
 
@@ -83,7 +84,7 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)
 ![UltraVNC](https://img.shields.io/badge/UltraVNC-39499E?logoColor=white)
-![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-0A7BDC?logoColor=white)
+
 
 ---
 
