@@ -18,6 +18,7 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 
 ## 🧰 Projetos recentes
 
+- [**linux-lamp-stack**](https://github.com/terminal-junior/linux-lamp-stack) — LAMP Stack um dos conjuntos de tecnologias mais utilizados para desenvolvimento e hospedagem de aplicações web.
 - [**zabbix-grafana-all-in-one**](https://github.com/terminal-junior/zabbix-grafana-all-in-one) — Guia e scripts para deploy de Zabbix + Grafana com PostgreSQL.  
 - [**nginx-web-server**](https://github.com/terminal-junior/nginx-web-server) — Templates e automações para servidores NGINX.  
 - [**hcaparecida**](https://github.com/terminal-junior/hcaparecida) — Automação em Python para atualização diária de relatórios/censos.  
