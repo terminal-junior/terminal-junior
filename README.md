@@ -75,6 +75,7 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ![RSAT](https://img.shields.io/badge/RSAT-000000?logo=windows&logoColor=white)
 ![Advanced IP Scanner](https://img.shields.io/badge/Advanced%20IP%20Scanner-0A7BDC?logoColor=white)
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-E30000?logo=bitdefender&logoColor=white)
+![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?logo=adguard&logoColor=white)
 
 
 ---
@@ -85,7 +86,9 @@ Curto transformar caos em organização — automatizando, monitorando e otimiza
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-0078D6?logo=microsoft&logoColor=white)
 ![UltraVNC](https://img.shields.io/badge/UltraVNC-39499E?logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-2C2C2C?logo=windows-terminal&logoColor=white)
 
 
 ---
